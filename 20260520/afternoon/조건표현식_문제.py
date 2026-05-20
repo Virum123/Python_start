@@ -55,5 +55,3 @@ for x in range(1, 10):
     print(f'{x}단')
     for s in range(1, 10):
         print(f'{x} * {s} = {x * s}')
-
-print('\n구구단 끝!')
