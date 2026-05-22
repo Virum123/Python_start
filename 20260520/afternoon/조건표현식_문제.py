@@ -55,3 +55,5 @@ for x in range(1, 10):
     print(f'{x}단')
     for s in range(1, 10):
         print(f'{x} * {s} = {x * s}')
+
+# 아 이거 입력받는거네 정리할땐 바꿔서 정리해야겠다.
